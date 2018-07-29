@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="378.72232mm"
+   height="223.03574mm"
+   viewBox="0 0 1341.9295 790.2841"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drawing_mackey_et_al_pipeline.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80025605"
+     inkscape:cx="809.1499"
+     inkscape:cy="359.68998"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4294"
+     showgrid="false"
+     fit-margin-top="30"
+     fit-margin-left="30"
+     fit-margin-right="30"
+     fit-margin-bottom="30"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="1505"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(261.31313,181.16032)">
+    <g
+       id="g4294"
+       transform="translate(1.2496001,-92.470404)">
+      <g
+         transform="translate(-810.81848,327.91467)"
+         id="g4209">
+        <g
+           id="g4277" />
+      </g>
+      <g
+         id="g4362">
+        <g
+           id="g4311"
+           transform="translate(-1.2496001,92.470404)">
+          <g
+             id="g4224"
+             transform="translate(0,-30.862204)">
+            <rect
+               y="31.362204"
+               x="29"
+               height="227"
+               width="351"
+               id="rect4136"
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <flowRoot
+               transform="translate(-17.17041,30.124768)"
+               style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot4138"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion4140"><rect
+                   style="font-size:30px"
+                   y="74.362206"
+                   x="72"
+                   height="128.9904"
+                   width="307.7392"
+                   id="rect4142" /></flowRegion><flowPara
+                 id="flowPara4144"
+                 style="text-align:center;text-anchor:middle">1) Multiple datasets</flowPara><flowPara
+                 id="flowPara4146"
+                 style="text-align:center;text-anchor:middle">(x3 government)</flowPara></flowRoot>          </g>
+          <g
+             id="g4270"
+             transform="translate(-6.0365208,-29.022884)">
+            <rect
+               y="29.522884"
+               x="445.33975"
+               height="227"
+               width="351"
+               id="rect4136-3"
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <flowRoot
+               transform="translate(408.62003,9.5354486)"
+               style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot4138-6"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion4140-7"><rect
+                   style="font-size:30px"
+                   y="74.362206"
+                   x="72"
+                   height="149.91168"
+                   width="278.24261"
+                   id="rect4142-5" /></flowRegion><flowPara
+                 id="flowPara4146-5"
+                 style="text-align:center;text-anchor:middle">2) Visualised in ARCgis and triaged data</flowPara></flowRoot>          </g>
+        </g>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4136-3-6"
+           width="351"
+           height="227"
+           x="839.81848"
+           y="39.88031"
+           transform="translate(-810.81848,327.91467)" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4138-6-2"
+           style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-12.28515,329.05754)"><flowRegion
+             id="flowRegion4140-7-9"><rect
+               id="rect4142-5-1"
+               width="295.73703"
+               height="164.90689"
+               x="72"
+               y="74.362206"
+               style="font-size:30px" /></flowRegion><flowPara
+             id="flowPara4146-5-2">3) Added species modelling data via</flowPara><flowPara
+             id="flowPara4207">BCCVL eg. Climate change, fire events</flowPara></flowRoot>        <flowRoot
+           transform="translate(-244.67123,-633.63044)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4330"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4332"><rect
+               y="642.94617"
+               x="84.972801"
+               height="192.4384"
+               width="1208.3633"
+               id="rect4334" /></flowRegion><flowPara
+             style="font-size:35px"
+             id="flowPara4336">Mackey et al 2017. Conservation status of Tasmanian rainforests</flowPara></flowRoot>        <g
+           transform="translate(-400.51525,327.91467)"
+           id="g4209-7">
+          <g
+             id="g4287">
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect4136-3-6-0"
+               width="351"
+               height="227"
+               x="839.81848"
+               y="39.88031" />
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot4138-6-2-9"
+               style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               transform="translate(799.24377,1.1428743)"><flowRegion
+                 id="flowRegion4140-7-9-3"><rect
+                   id="rect4142-5-1-6"
+                   width="295.73703"
+                   height="164.90689"
+                   x="72"
+                   y="74.362206"
+                   style="font-size:30px" /></flowRegion><flowPara
+                 style="text-align:center;text-anchor:middle"
+                 id="flowPara4207-6">4) Further data curation. Removed 'Future potential production forest'</flowPara></flowRoot>          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

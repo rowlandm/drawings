@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="rnaseq_breakdown_by_type_biocyc_and_reactome.svg"
+   inkscape:export-filename="/home/rowlandm/rnaseq_breakdown_by_type_biocyc_and_reactome.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75146515"
+     inkscape:cx="637.55135"
+     inkscape:cy="495.93793"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     guidetolerance="20"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="1505"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     objecttolerance="10000"
+     gridtolerance="10">
+    <sodipodi:guide
+       position="50.240252,769.42433"
+       orientation="0,1"
+       id="guide4153" />
+    <sodipodi:guide
+       position="6.9317508,-13.863501"
+       orientation="0,1"
+       id="guide4155" />
+    <sodipodi:guide
+       position="50.240252,595.53078"
+       orientation="1,0"
+       id="guide4176" />
+    <sodipodi:guide
+       position="999.90356,703.36352"
+       orientation="1,0"
+       id="guide4199" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <rect
+       style="fill:#f58800;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3336"
+       width="485.66565"
+       height="397.92697"
+       x="51.976555"
+       y="442.5863"
+       ry="7.6056905" />
+    <rect
+       style="fill:#f53800;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3336-3"
+       width="110.43145"
+       height="397.92645"
+       x="547.05908"
+       y="442.58655"
+       ry="7.6056809" />
+    <rect
+       style="fill:#0768a0;fill-opacity:0.54838712;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3336-6"
+       width="286.51059"
+       height="397.93121"
+       x="666.81653"
+       y="441.64319"
+       ry="7.6057725" />
+    <rect
+       style="fill:#0508f3;fill-opacity:0.6935484;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3336-3-7"
+       width="32.563869"
+       height="396.8822"
+       x="964.37494"
+       y="443.5723"
+       ry="7.585722" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4201"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(94.043563,-31.388268)"><flowRegion
+         id="flowRegion4203"><rect
+           id="rect4205"
+           width="378.63995"
+           height="100.4805"
+           x="124.98795"
+           y="582.3454"
+           style="font-size:25px" /></flowRegion><flowPara
+         id="flowPara4207">Biologists</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="257.15329"
+       y="906.09558"
+       id="text4209"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="257.15329"
+         y="906.09558"
+         id="tspan4227"
+         style="font-size:25px;text-align:center;text-anchor:middle">Web Bioinformaticians</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="809.31323"
+       y="557.70734"
+       id="text4213"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4215"
+         x="809.31323"
+         y="557.70734"
+         style="font-size:25px;text-align:center;text-anchor:middle">Command line</tspan><tspan
+         sodipodi:role="line"
+         x="809.31323"
+         y="588.95734"
+         id="tspan4229"
+         style="font-size:25px;text-align:center;text-anchor:middle">bioinformaticians</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="814.95007"
+       y="895.35168"
+       id="text4217"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219"
+         x="814.95007"
+         y="895.35168"
+         style="font-size:25px;text-align:center;text-anchor:middle">Production line</tspan><tspan
+         sodipodi:role="line"
+         x="814.95007"
+         y="926.60168"
+         id="tspan4221"
+         style="font-size:25px;text-align:center;text-anchor:middle">bioinformaticians</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="143.50345"
+       y="613.84839"
+       id="text4281"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="143.50345"
+         y="613.84839"
+         id="tspan4287">- Want something easy to use</tspan><tspan
+         sodipodi:role="line"
+         x="143.50345"
+         y="635.72339"
+         id="tspan4675">- Minimal bioinformatics knowledge</tspan><tspan
+         sodipodi:role="line"
+         x="143.50345"
+         y="657.59839"
+         id="tspan4677">- Want to benchmark their work</tspan><tspan
+         sodipodi:role="line"
+         x="143.50345"
+         y="679.47339"
+         id="tspan4679">- Don't want to manipulate data</tspan><tspan
+         sodipodi:role="line"
+         x="143.50345"
+         y="701.34839"
+         id="tspan4681">- Happy with default settings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="687.81213"
+       y="625.0307"
+       id="text4299"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="687.81213"
+         y="625.0307"
+         id="tspan4736"
+         style="text-align:start;text-anchor:start">- Want to choose methods</tspan><tspan
+         sodipodi:role="line"
+         x="687.81213"
+         y="646.9057"
+         id="tspan4740"
+         style="text-align:start;text-anchor:start">- Want cutting edge methods</tspan><tspan
+         sodipodi:role="line"
+         x="687.81213"
+         y="668.7807"
+         style="text-align:start;text-anchor:start"
+         id="tspan4751">- Want access to full settings</tspan><tspan
+         sodipodi:role="line"
+         x="687.81213"
+         y="690.6557"
+         style="text-align:start;text-anchor:start"
+         id="tspan4753">- Can manipulate data</tspan><tspan
+         sodipodi:role="line"
+         x="687.81213"
+         y="712.5307"
+         style="text-align:start;text-anchor:start"
+         id="tspan4835">- Runs on laptop or HPC</tspan><tspan
+         sodipodi:role="line"
+         x="687.81213"
+         y="734.4057"
+         style="text-align:start;text-anchor:start"
+         id="tspan4216">- Includes biostatisticians</tspan><tspan
+         sodipodi:role="line"
+         x="687.81213"
+         y="756.2807"
+         style="text-align:start;text-anchor:start"
+         id="tspan4744" /><tspan
+         sodipodi:role="line"
+         x="687.81213"
+         y="778.1557"
+         id="tspan4439"
+         style="text-align:start;text-anchor:start" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4342"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-39.548986,296.78576)"><flowRegion
+         id="flowRegion4344"><rect
+           id="rect4346"
+           width="526.33765"
+           height="92.380836"
+           x="85.476837"
+           y="39.867378" /></flowRegion><flowPara
+         id="flowPara4348">Human Gene Expression</flowPara></flowRoot>    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4233-3-7"
+       cx="981.12256"
+       cy="802.36218"
+       r="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="653.37683"
+       y="951.93903"
+       id="text4289-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="653.37683"
+         y="951.93903"
+         id="tspan4407">- Pump out multiple datasets per day</tspan><tspan
+         sodipodi:role="line"
+         x="653.37683"
+         y="973.81403"
+         id="tspan4765">- Constant pipeline, very little variance</tspan><tspan
+         sodipodi:role="line"
+         x="653.37683"
+         y="995.68903"
+         id="tspan4767">- Particular focus on goal/service</tspan><tspan
+         sodipodi:role="line"
+         x="653.37683"
+         y="1017.564"
+         id="tspan4837">- Runs on Amazon or HPC</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4465"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:15px;line-height:125%;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion4467"><rect
+           id="rect4469"
+           width="407.07156"
+           height="41.402718"
+           x="50.24025"
+           y="682.9314"
+           style="font-size:15px;" /></flowRegion><flowPara
+         id="flowPara4471" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4473"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:15px;line-height:125%;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion4475"><rect
+           id="rect4477"
+           width="151.49631"
+           height="95.038055"
+           x="89.392227"
+           y="572.83777"
+           style="font-size:15px;" /></flowRegion><flowPara
+         id="flowPara4479" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4481"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-35.756892,-202.67944)"><flowRegion
+         id="flowRegion4483"><rect
+           id="rect4485"
+           width="571.16931"
+           height="33.874935"
+           x="87.510284"
+           y="596.36206"
+           style="font-size:15px" /></flowRegion><flowPara
+         id="flowPara4489">Landscape of the bioinformatics ecosystem by Rowland Mosbergen</flowPara></flowRoot>    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4233-3-7-9"
+       cx="600.3219"
+       cy="802.36218"
+       r="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="115.75787"
+       y="937.6723"
+       id="text4289-0-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="115.75787"
+         y="937.6723"
+         id="tspan4407-0">- Happy with default methods</tspan><tspan
+         sodipodi:role="line"
+         x="115.75787"
+         y="959.5473"
+         id="tspan4833">- Happy with non-cutting edge methods</tspan><tspan
+         sodipodi:role="line"
+         x="115.75787"
+         y="981.4223"
+         id="tspan4831">- Want to change settings</tspan><tspan
+         sodipodi:role="line"
+         x="115.75787"
+         y="1003.2973"
+         id="tspan4767-3">- OK to manipulate data </tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 599.39842,803.94591 -68.69087,94.09708 -114.79844,0.94097"
+       id="path4851"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 917.44656,886.75134 51.75339,0 11.29165,-82.80543"
+       id="path4853"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 601.79868,463.88532 68.69087,-94.09708 114.79844,-0.94097"
+       id="path4851-3"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4233-3-7-9-6"
+       cx="602.27478"
+       cy="464.17792"
+       r="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="871.16663"
+       y="362.38171"
+       id="text4209-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="871.16663"
+         y="362.38171"
+         id="tspan4227-5"
+         style="font-size:25px;text-align:center;text-anchor:middle">Reactome &amp;</tspan><tspan
+         sodipodi:role="line"
+         x="871.16663"
+         y="393.63171"
+         style="font-size:25px;text-align:center;text-anchor:middle"
+         id="tspan4381">BioCyc</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg4229"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drawing_stemformatics_workflow.svg"
+   inkscape:export-filename="/home/rowlandm/Documents/drawing_stemformatics_workflow.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4231" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="377.57559"
+     inkscape:cy="393.27057"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="1505"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4234">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <rect
+       style="opacity:0.47202797;fill:#abd1ea;fill-opacity:1;stroke:#000000;stroke-width:2.08003259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4777"
+       width="197.91997"
+       height="197.91997"
+       x="66.4711"
+       y="483.68793"
+       ry="3.0325546" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4779"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#214081;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="translate(-18.842113,415.008)"><flowRegion
+         id="flowRegion4781"><rect
+           id="rect4783"
+           width="138.57143"
+           height="140"
+           x="114.28571"
+           y="119.80877"
+           style="fill:#214081;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara4785"
+         style="text-align:center;text-anchor:middle;fill:#214081;fill-opacity:1;">1) Get raw data from GEO/SRA</flowPara></flowRoot>    <rect
+       style="opacity:0.47202797;fill:#abd1ea;fill-opacity:1;stroke:#000000;stroke-width:2.08003259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4777-6"
+       width="197.91997"
+       height="197.91997"
+       x="306.9711"
+       y="483.68793"
+       ry="3.0325546" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4779-7"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#214081;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="translate(222.35981,397.98529)"><flowRegion
+         id="flowRegion4781-5"><rect
+           id="rect4783-3"
+           width="138.57143"
+           height="140"
+           x="114.28571"
+           y="119.80877"
+           style="fill:#214081;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara4785-5"
+         style="text-align:center;text-anchor:middle;fill:#214081;fill-opacity:1;">2) Process  raw data on HPC@NCI</flowPara></flowRoot>    <rect
+       style="opacity:0.47202797;fill:#abd1ea;fill-opacity:1;stroke:#000000;stroke-width:2.08003259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4777-6-2"
+       width="197.91997"
+       height="197.91997"
+       x="547.47113"
+       y="483.68793"
+       ry="3.0325546" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4779-7-9"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#214081;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="translate(434.53927,382.31756)"><flowRegion
+         id="flowRegion4781-5-1"><rect
+           id="rect4783-3-2"
+           width="192.85715"
+           height="197.14285"
+           x="114.28571"
+           y="119.80877"
+           style="fill:#214081;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara4866"
+         style="text-align:center;text-anchor:middle;fill:#214081;fill-opacity:1;">3) QC checks done by domain informatics expert</flowPara></flowRoot>    <rect
+       style="opacity:0.47202797;fill:#abd1ea;fill-opacity:1;stroke:#000000;stroke-width:2.08003259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4777-6-2-3"
+       width="197.91997"
+       height="197.91997"
+       x="787.97113"
+       y="483.68793"
+       ry="3.0325546" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4779-7-9-6"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#214081;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="translate(675.26513,415.99067)"><flowRegion
+         id="flowRegion4781-5-1-0"><rect
+           id="rect4783-3-2-6"
+           width="192.85715"
+           height="197.14285"
+           x="114.28571"
+           y="119.80877"
+           style="fill:#214081;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara4866-2"
+         style="text-align:center;text-anchor:middle;fill:#214081;fill-opacity:1;">4) QC fix eg. Batch correction</flowPara></flowRoot>    <rect
+       style="opacity:0.47202797;fill:#abd1ea;fill-opacity:1;stroke:#000000;stroke-width:2.08003259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4777-6-2-3-6"
+       width="197.91997"
+       height="197.91997"
+       x="66.471092"
+       y="732.25934"
+       ry="3.0325546" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4779-7-9-6-1"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#214081;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="translate(-46.24715,680.18709)"><flowRegion
+         id="flowRegion4781-5-1-0-8"><rect
+           id="rect4783-3-2-6-7"
+           width="192.85715"
+           height="197.14285"
+           x="114.28571"
+           y="119.80877"
+           style="fill:#214081;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara4866-2-9"
+         style="text-align:center;text-anchor:middle;fill:#214081;fill-opacity:1;">5) Upload to website</flowPara></flowRoot>    <rect
+       style="opacity:0.47202797;fill:#abd1ea;fill-opacity:1;stroke:#000000;stroke-width:2.08003259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4777-6-2-3-6-0"
+       width="197.91997"
+       height="197.91997"
+       x="306.9711"
+       y="732.25934"
+       ry="3.0325546" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4779-7-9-6-1-2"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#214081;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="translate(194.34443,648.93709)"><flowRegion
+         id="flowRegion4781-5-1-0-8-3"><rect
+           id="rect4783-3-2-6-7-7"
+           width="192.85715"
+           height="197.14285"
+           x="114.28571"
+           y="119.80877"
+           style="fill:#214081;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara4866-2-9-5"
+         style="text-align:center;text-anchor:middle;fill:#214081;fill-opacity:1;">6) Curate data consistently across all datasets</flowPara></flowRoot>    <rect
+       style="opacity:0.47202797;fill:#abd1ea;fill-opacity:1;stroke:#000000;stroke-width:2.08003259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4777-6-2-3-6-0-2"
+       width="197.91997"
+       height="197.91997"
+       x="547.47113"
+       y="732.25934"
+       ry="3.0325546" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4779-7-9-6-1-2-2"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#214081;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="translate(434.69186,677.76399)"><flowRegion
+         id="flowRegion4781-5-1-0-8-3-8"><rect
+           id="rect4783-3-2-6-7-7-9"
+           width="192.85715"
+           height="197.14285"
+           x="114.28571"
+           y="119.80877"
+           style="fill:#214081;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara4866-2-9-5-7"
+         style="text-align:center;text-anchor:middle;fill:#214081;fill-opacity:1;">7) Share data appropriately</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5191"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion5193"><rect
+           id="rect5195"
+           width="745.71429"
+           height="82.85714"
+           x="192.85715"
+           y="39.808769"
+           style="font-size:40px;" /></flowRegion><flowPara
+         id="flowPara5197" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5199"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion5201"><rect
+           id="rect5203"
+           width="770"
+           height="97.14286"
+           x="160"
+           y="34.094482"
+           style="font-size:40px;" /></flowRegion><flowPara
+         id="flowPara5205" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5207"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-59.287648,324.26772)"><flowRegion
+         id="flowRegion5209"><rect
+           id="rect5211"
+           width="781.42859"
+           height="67.14286"
+           x="194.28572"
+           y="44.094482" /></flowRegion><flowPara
+         id="flowPara5213"
+         style="font-size:40px;text-align:center;text-anchor:middle;fill:#214081;fill-opacity:1">Stemformatics Workflow</flowPara></flowRoot>  </g>
+</svg>
