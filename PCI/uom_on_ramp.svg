@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.63858297"
-     inkscape:cx="1070.847"
-     inkscape:cy="254.14851"
+     inkscape:zoom="1.2220127"
+     inkscape:cx="526.1811"
+     inkscape:cy="372.04724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,7 +67,8 @@
            x="70"
            y="55.523052" /></flowRegion><flowPara
          id="flowPara4152"></flowPara></flowRoot>    <g
-       id="g4713">
+       id="g4713"
+       transform="translate(254,0)">
       <rect
          ry="1.6899052"
          y="387.00375"
@@ -91,7 +92,7 @@
            id="flowPara4144">Faculty of Architecture, Building and Planning</flowPara></flowRoot>    </g>
     <g
        id="g4720"
-       transform="translate(-0.23690796,0)">
+       transform="translate(253.76309,0)">
       <rect
          ry="1.6899052"
          y="387.00375"
@@ -115,7 +116,7 @@
            id="flowPara4144-5">Faculty of Arts</flowPara></flowRoot>    </g>
     <g
        id="g4727"
-       transform="translate(-0.47375488,0)">
+       transform="translate(253.52625,0)">
       <rect
          ry="1.6899052"
          y="387.00375"
@@ -139,7 +140,7 @@
            id="flowPara4144-5-7">Faculty of Business and Economics</flowPara></flowRoot>    </g>
     <g
        id="g4734"
-       transform="translate(-0.71063232,0)">
+       transform="translate(253.28937,0)">
       <rect
          ry="1.6899052"
          y="387.00375"
@@ -162,7 +163,8 @@
            style="text-align:center;text-anchor:middle"
            id="flowPara4144-5-6">Faculty of Education</flowPara></flowRoot>    </g>
     <g
-       id="g4741">
+       id="g4741"
+       transform="translate(254,0)">
       <g
          transform="translate(541.01835,-120.33158)"
          id="g4706">
@@ -189,7 +191,7 @@
     </g>
     <g
        id="g4749"
-       transform="translate(-0.66622162,98)">
+       transform="translate(253.33378,98)">
       <rect
          ry="1.6899052"
          y="508.5202"
@@ -213,7 +215,7 @@
            id="flowPara4144-5-2">Faculty of Fine Arts and Music</flowPara></flowRoot>    </g>
     <g
        id="g4756"
-       transform="translate(-0.90304565,98)">
+       transform="translate(253.09695,98)">
       <rect
          ry="1.6899052"
          y="508.5202"
@@ -237,7 +239,7 @@
            id="flowPara4144-5-1">Faculty of Law</flowPara></flowRoot>    </g>
     <g
        id="g4763"
-       transform="translate(4.0179443,98)">
+       transform="translate(258.01794,98)">
       <g
          transform="matrix(0.33333334,0,0,0.33333334,312.20073,374.39439)"
          id="g4154-3-3">
@@ -265,7 +267,7 @@
     </g>
     <g
        id="g4771"
-       transform="translate(0.9385376,98)">
+       transform="translate(254.93854,98)">
       <g
          transform="matrix(0.33333334,0,0,0.33333334,449.34142,374.39439)"
          id="g4154-3-6-5">
@@ -293,7 +295,7 @@
     </g>
     <g
        id="g4779"
-       transform="translate(0.70171748,98)">
+       transform="translate(254.70172,98)">
       <g
          transform="matrix(0.33333334,0,0,0.33333334,583.63959,374.39439)"
          id="g4154-3-0-6">
@@ -321,7 +323,7 @@
     </g>
     <g
        id="g4154-3-2-2"
-       transform="matrix(0.33333334,0,0,0.33333334,39.565687,761.08397)">
+       transform="matrix(0.33333334,0,0,0.33333334,293.56569,761.08397)">
       <rect
          ry="5.0697155"
          y="402.37741"
@@ -345,7 +347,7 @@
            id="flowPara4144-5-9-4">Library</flowPara></flowRoot>    </g>
     <g
        id="g4154-3-20-3"
-       transform="matrix(0.33333334,0,0,0.33333334,170.23614,761.08397)">
+       transform="matrix(0.33333334,0,0,0.33333334,424.23614,761.08397)">
       <rect
          ry="5.0697155"
          y="402.37741"
@@ -369,7 +371,7 @@
            id="flowPara4144-5-2-8">Research Platforms</flowPara></flowRoot>    </g>
     <g
        id="g4154-3-28-8"
-       transform="matrix(0.33333334,0,0,0.33333334,641.05647,455.9913)">
+       transform="matrix(0.33333334,0,0,0.33333334,895.05647,455.9913)">
       <rect
          ry="5.0697155"
          y="1317.6554"
@@ -393,7 +395,7 @@
            id="flowPara4144-5-1-9">University of Melbourne Archives</flowPara></flowRoot>    </g>
     <g
        id="g4865"
-       transform="translate(-394.376,-224.76181)">
+       transform="translate(-140.376,-224.76181)">
       <rect
          ry="1.6899101"
          y="714.57715"
@@ -417,7 +419,7 @@
            id="flowPara4863">Digital Studio</flowPara></flowRoot>    </g>
     <g
        id="g5093"
-       transform="translate(142.30276,-120.76393)">
+       transform="translate(396.30276,-120.76393)">
       <rect
          ry="1.6899101"
          y="829.05322"
@@ -441,7 +443,7 @@
            id="flowPara4902-4">Melbourne Bioinformatics</flowPara></flowRoot>    </g>
     <g
        id="g5085"
-       transform="translate(144.72128,-127.57639)">
+       transform="translate(398.72128,-127.57639)">
       <g
          transform="translate(-415.58042,88.27559)"
          id="g4974">
@@ -467,18 +469,6 @@
              id="flowPara4902-4-2"
              style="font-size:7.5px;text-align:center;text-anchor:middle">Stemformatics</flowPara></flowRoot>      </g>
     </g>
-    <g
-       transform="translate(305.66209,58.802798)"
-       id="g5011">
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect6781"
-         width="143.94978"
-         height="204.85162"
-         x="591.2558"
-         y="767.1153"
-         ry="3.6912601" />
-    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5130"
@@ -500,140 +490,156 @@
            x="-467.77988"
            y="384.34131" /></flowRegion><flowPara
          id="flowPara5144"></flowPara></flowRoot>    <g
-       id="g6787"
-       transform="translate(-1.0112637,3.4896653)">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot4857-6-4-7-2"
-         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(319.55846,393.82153)"><flowRegion
-           id="flowRegion4859-8-9-1-6"><rect
-             id="rect4861-9-5-7-1"
-             width="82.742699"
-             height="20.883286"
-             x="608.81122"
-             y="448.23959" /></flowRegion><flowPara
-           id="flowPara4902-4-2-0"
-           style="font-size:7.5px;text-align:center;text-anchor:middle">Digital Scholarship</flowPara></flowRoot>      <g
-         transform="translate(-29.273644,423.0887)"
-         id="g6730">
-        <g
-           id="g4974-7-1"
-           transform="translate(611.67252,-363.69831)">
+       id="g6859"
+       transform="translate(-221.46121,409.70324)">
+      <g
+         id="g5011"
+         transform="translate(305.66209,58.802798)">
+        <rect
+           ry="3.6912601"
+           y="767.1153"
+           x="591.2558"
+           height="204.85162"
+           width="143.94978"
+           id="rect6781"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(-1.0112637,3.4896653)"
+         id="g6787">
+        <flowRoot
+           transform="translate(319.55846,393.82153)"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4857-6-4-7-2"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4859-8-9-1-6"><rect
+               y="448.23959"
+               x="608.81122"
+               height="20.883286"
+               width="82.742699"
+               id="rect4861-9-5-7-1" /></flowRegion><flowPara
+             style="font-size:7.5px;text-align:center;text-anchor:middle"
+             id="flowPara4902-4-2-0">Digital Scholarship</flowPara></flowRoot>        <g
+           id="g6730"
+           transform="translate(-29.273644,423.0887)">
           <g
-             id="g5011-7"
-             transform="translate(-274.76311,78.666617)">
+             transform="translate(611.67252,-363.69831)"
+             id="g4974-7-1">
+            <g
+               transform="translate(-274.76311,78.666617)"
+               id="g5011-7">
+              <rect
+                 ry="1.6899101"
+                 y="775.44293"
+                 x="614.70428"
+                 height="24.991257"
+                 width="95.128006"
+                 id="rect4855-0-6-8-2-7"
+                 style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              <flowRoot
+                 transform="translate(12.023415,335.01873)"
+                 style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 id="flowRoot4857-6-4-7-2-1"
+                 xml:space="preserve"><flowRegion
+                   id="flowRegion4859-8-9-1-6-1"><rect
+                     y="448.23959"
+                     x="608.81122"
+                     height="20.883286"
+                     width="82.742699"
+                     id="rect4861-9-5-7-1-5" /></flowRegion><flowPara
+                   style="font-size:7.5px;text-align:center;text-anchor:middle"
+                   id="flowPara4902-4-2-0-9">Data Forensics Lab</flowPara></flowRoot>            </g>
+          </g>
+          <g
+             id="g5156-7"
+             transform="translate(1419.7834,-132.80626)">
+            <g
+               id="g5076-7"
+               transform="translate(-517.48677,-268.39597)">
+              <g
+                 transform="translate(-290.62413,70.942961)"
+                 id="g4974-7-6">
+                <g
+                   transform="translate(-274.76311,78.666617)"
+                   id="g5011-73">
+                  <rect
+                     ry="1.6899101"
+                     y="775.44293"
+                     x="614.70428"
+                     height="24.991257"
+                     width="95.128006"
+                     id="rect4855-0-6-8-2-6"
+                     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+                  <flowRoot
+                     transform="translate(11.917213,329.6043)"
+                     style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     id="flowRoot4857-6-4-7-2-5"
+                     xml:space="preserve"><flowRegion
+                       id="flowRegion4859-8-9-1-6-6"><rect
+                         y="448.23959"
+                         x="608.81122"
+                         height="20.883286"
+                         width="82.742699"
+                         id="rect4861-9-5-7-1-3" /></flowRegion><flowPara
+                       style="font-size:7.5px;text-align:center;text-anchor:middle"
+                       id="flowPara4902-4-2-0-94">University Digitisation Centre</flowPara></flowRoot>                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             transform="translate(53.231,-36.408738)"
+             id="g6723">
             <rect
                style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect4855-0-6-8-2-7"
+               id="rect4855-0-6-8-2-7-2-5"
                width="95.128006"
                height="24.991257"
-               x="614.70428"
-               y="775.44293"
+               x="898.38269"
+               y="593.69812"
                ry="1.6899101" />
             <flowRoot
                xml:space="preserve"
-               id="flowRoot4857-6-4-7-2-1"
+               id="flowRoot4857-6-4-7-2-1-9-9"
                style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(12.023415,335.01873)"><flowRegion
-                 id="flowRegion4859-8-9-1-6-1"><rect
-                   id="rect4861-9-5-7-1-5"
+               transform="translate(295.5956,148.58647)"><flowRegion
+                 id="flowRegion4859-8-9-1-6-1-3-6"><rect
+                   id="rect4861-9-5-7-1-5-9-2"
                    width="82.742699"
                    height="20.883286"
                    x="608.81122"
                    y="448.23959" /></flowRegion><flowPara
-                 id="flowPara4902-4-2-0-9"
-                 style="font-size:7.5px;text-align:center;text-anchor:middle">Data Forensics Lab</flowPara></flowRoot>          </g>
-        </g>
-        <g
-           transform="translate(1419.7834,-132.80626)"
-           id="g5156-7">
+                 id="flowPara4902-4-2-0-9-0-1"
+                 style="font-size:7.5px;text-align:center;text-anchor:middle">Research Data Curation</flowPara></flowRoot>          </g>
           <g
-             transform="translate(-517.48677,-268.39597)"
-             id="g5076-7">
-            <g
-               id="g4974-7-6"
-               transform="translate(-290.62413,70.942961)">
-              <g
-                 id="g5011-73"
-                 transform="translate(-274.76311,78.666617)">
-                <rect
-                   style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-                   id="rect4855-0-6-8-2-6"
-                   width="95.128006"
-                   height="24.991257"
-                   x="614.70428"
-                   y="775.44293"
-                   ry="1.6899101" />
-                <flowRoot
-                   xml:space="preserve"
-                   id="flowRoot4857-6-4-7-2-5"
-                   style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                   transform="translate(11.917213,329.6043)"><flowRegion
-                     id="flowRegion4859-8-9-1-6-6"><rect
-                       id="rect4861-9-5-7-1-3"
-                       width="82.742699"
-                       height="20.883286"
-                       x="608.81122"
-                       y="448.23959" /></flowRegion><flowPara
-                     id="flowPara4902-4-2-0-94"
-                     style="font-size:7.5px;text-align:center;text-anchor:middle">University Digitisation Centre</flowPara></flowRoot>              </g>
-            </g>
-          </g>
+             transform="translate(450.4539,-371.2268)"
+             id="g5593">
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect4855-0-6-8-2-7-2-5-8"
+               width="95.128006"
+               height="24.991257"
+               x="501.15979"
+               y="828.19897"
+               ry="1.6899101" />
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot4857-6-4-7-2-1-9-9-5"
+               style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               transform="translate(-101.62728,387.77477)"><flowRegion
+                 id="flowRegion4859-8-9-1-6-1-3-6-7"><rect
+                   id="rect4861-9-5-7-1-5-9-2-4"
+                   width="82.742699"
+                   height="20.883286"
+                   x="608.81122"
+                   y="448.23959" /></flowRegion><flowPara
+                 id="flowPara4902-4-2-0-9-0-1-1"
+                 style="font-size:7.5px;text-align:center;text-anchor:middle">immersiveInformatics</flowPara></flowRoot>          </g>
         </g>
-        <g
-           id="g6723"
-           transform="translate(53.231,-36.408738)">
-          <rect
-             ry="1.6899101"
-             y="593.69812"
-             x="898.38269"
-             height="24.991257"
-             width="95.128006"
-             id="rect4855-0-6-8-2-7-2-5"
-             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <flowRoot
-             transform="translate(295.5956,148.58647)"
-             style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot4857-6-4-7-2-1-9-9"
-             xml:space="preserve"><flowRegion
-               id="flowRegion4859-8-9-1-6-1-3-6"><rect
-                 y="448.23959"
-                 x="608.81122"
-                 height="20.883286"
-                 width="82.742699"
-                 id="rect4861-9-5-7-1-5-9-2" /></flowRegion><flowPara
-               style="font-size:7.5px;text-align:center;text-anchor:middle"
-               id="flowPara4902-4-2-0-9-0-1">Research Data Curation</flowPara></flowRoot>        </g>
-        <g
-           id="g5593"
-           transform="translate(450.4539,-371.2268)">
-          <rect
-             ry="1.6899101"
-             y="828.19897"
-             x="501.15979"
-             height="24.991257"
-             width="95.128006"
-             id="rect4855-0-6-8-2-7-2-5-8"
-             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <flowRoot
-             transform="translate(-101.62728,387.77477)"
-             style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot4857-6-4-7-2-1-9-9-5"
-             xml:space="preserve"><flowRegion
-               id="flowRegion4859-8-9-1-6-1-3-6-7"><rect
-                 y="448.23959"
-                 x="608.81122"
-                 height="20.883286"
-                 width="82.742699"
-                 id="rect4861-9-5-7-1-5-9-2-4" /></flowRegion><flowPara
-               style="font-size:7.5px;text-align:center;text-anchor:middle"
-               id="flowPara4902-4-2-0-9-0-1-1">immersiveInformatics</flowPara></flowRoot>        </g>
       </g>
     </g>
     <g
        id="g6822"
-       transform="matrix(1.5203355,0,0,1.5203355,-324.70958,-512.47682)">
+       transform="matrix(1.5203355,0,0,1.5203355,-559.45846,-138.20738)">
       <g
          transform="matrix(0.54445557,0,0,0.54445557,582.34878,530.33501)"
          id="g5068">
@@ -779,7 +785,7 @@
     </g>
     <g
        id="g5878"
-       transform="translate(-2.4844458,-2)">
+       transform="translate(251.51555,-2)">
       <g
          transform="translate(-510.83512,-222.62787)"
          id="g4865-8">
@@ -841,7 +847,7 @@
     </g>
     <g
        id="g5934"
-       transform="translate(-1.4137437,0)">
+       transform="translate(252.58626,0)">
       <g
          transform="translate(-271.33527,9.0529431)"
          id="g4974-7-1-8">
@@ -909,7 +915,7 @@
     </g>
     <g
        id="g5068-8"
-       transform="translate(135.0334,-345.84676)">
+       transform="translate(389.0334,-345.84676)">
       <rect
          ry="1.6899101"
          y="864.12164"
@@ -935,7 +941,7 @@
            id="flowPara4902-2">Informatics Platform</flowPara></flowRoot>    </g>
     <g
        id="g5068-1"
-       transform="translate(404.29402,-374.06269)">
+       transform="translate(658.29402,-374.06269)">
       <rect
          ry="1.6899101"
          y="864.12164"
@@ -961,7 +967,7 @@
            id="flowPara4902-5">Informatics Platform</flowPara></flowRoot>    </g>
     <g
        id="g5068-0"
-       transform="translate(-4.4339327,-62.881248)">
+       transform="translate(249.56607,-62.881248)">
       <rect
          ry="1.6899101"
          y="864.12164"
@@ -987,7 +993,7 @@
            id="flowPara4902-28">Informatics Platform</flowPara></flowRoot>    </g>
     <g
        id="g5068-4"
-       transform="translate(123.74703,-0.80619315)">
+       transform="translate(377.74703,-0.80619315)">
       <rect
          ry="1.6899101"
          y="864.12164"
@@ -1013,7 +1019,7 @@
            id="flowPara4902-9">Informatics Platform</flowPara></flowRoot>    </g>
     <g
        id="g5068-9"
-       transform="translate(118.91001,-33.859144)">
+       transform="translate(372.91001,-33.859144)">
       <g
          id="g6131"
          transform="translate(5.0385596,3.4262206)">
@@ -1041,7 +1047,7 @@
     </g>
     <g
        id="g4865-3"
-       transform="translate(-248.30023,-220.48735)">
+       transform="translate(5.69977,-220.48735)">
       <g
          id="g6168"
          transform="translate(-10.869455,-4)">
@@ -1097,7 +1103,7 @@
     </g>
     <g
        id="g5068-1-5"
-       transform="translate(2.5010723,-153.10818)">
+       transform="translate(256.50107,-153.10818)">
       <rect
          ry="1.6899101"
          y="864.12164"
@@ -1123,7 +1129,7 @@
            id="flowPara4902-5-8">Informatics Platform</flowPara></flowRoot>    </g>
     <g
        id="g5068-1-5-2"
-       transform="translate(405.64264,-152.3252)">
+       transform="translate(659.64264,-152.3252)">
       <g
          id="g6334"
          transform="translate(0,-4)">
@@ -1151,7 +1157,7 @@
     </g>
     <g
        id="g5068-1-5-6"
-       transform="translate(135.819,-150.91035)">
+       transform="translate(389.819,-150.91035)">
       <g
          id="g6410"
          transform="translate(0.58723771,-4.3064099)">
@@ -1203,7 +1209,7 @@
     </g>
     <g
        id="g5068-1-5-2-0"
-       transform="translate(405.44803,-125.04105)">
+       transform="translate(659.44803,-125.04105)">
       <g
          id="g6334-7"
          transform="translate(0,-4)">
@@ -1231,7 +1237,7 @@
     </g>
     <g
        id="g5068-1-5-2-0-8"
-       transform="translate(405.44802,-95.420615)">
+       transform="translate(659.44802,-95.420615)">
       <g
          id="g6334-7-0"
          transform="translate(0,-4)">
@@ -1266,14 +1272,14 @@
        id="rect4855-0-0-4"
        width="95.128006"
        height="24.991257"
-       x="611.55994"
+       x="865.55994"
        y="490.08914"
        ry="1.6899101" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4857-6-5-2"
        style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(8.89369,44.9774)"><flowRegion
+       transform="translate(262.89369,44.9774)"><flowRegion
          id="flowRegion4859-8-1-2"><rect
            id="rect4861-9-1-2"
            width="82.742699"
@@ -1286,14 +1292,14 @@
        id="rect4855-0-0-4-4"
        width="95.128006"
        height="24.991257"
-       x="611.14465"
+       x="865.14465"
        y="519.15588"
        ry="1.6899101" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4857-6-5-2-0"
        style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(1.9281,75.60538)"><flowRegion
+       transform="translate(255.9281,75.60538)"><flowRegion
          id="flowRegion4859-8-1-2-9"><rect
            id="rect4861-9-1-2-1"
            width="95.753532"
@@ -1303,7 +1309,7 @@
          id="flowPara4902-5-5-9"
          style="font-size:6.25px;text-align:center;text-anchor:middle">Microsoft Research Centre for Social Natural User Interfaces</flowPara></flowRoot>    <g
        id="g5068-1-5-2-0-8-6"
-       transform="translate(405.45856,-67.824)">
+       transform="translate(659.45856,-67.824)">
       <g
          id="g6334-7-0-2"
          transform="translate(0,-4)">
@@ -1338,14 +1344,14 @@
        id="rect4855-0-0-4-6"
        width="95.128006"
        height="24.991257"
-       x="610.72949"
+       x="864.72949"
        y="546.39117"
        ry="1.6899101" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4857-6-5-2-05"
        style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(7.942421,100.55254)"><flowRegion
+       transform="translate(261.94242,100.55254)"><flowRegion
          id="flowRegion4859-8-1-2-0"><rect
            id="rect4861-9-1-2-2"
            width="82.742699"
@@ -1355,7 +1361,7 @@
          id="flowPara4902-5-5-94"
          style="font-size:7.5px;text-align:center;text-anchor:middle">Particulate Fluids Processing Centre</flowPara></flowRoot>    <g
        id="g5068-1-5-2-3"
-       transform="translate(538.60157,-151.89322)">
+       transform="translate(792.60157,-151.89322)">
       <g
          id="g6334-5"
          transform="translate(0,-4)">
@@ -1383,7 +1389,7 @@
     </g>
     <g
        id="g5068-1-5-2-3-4"
-       transform="translate(538.60158,-125.04105)">
+       transform="translate(792.60158,-125.04105)">
       <g
          id="g6334-5-6"
          transform="translate(0,-4)">
@@ -1409,5 +1415,27 @@
              id="flowPara4902-5-8-7-1-6"
              style="font-size:7.5px;text-align:center;text-anchor:middle">Centre for Animal Biotechnology</flowPara></flowRoot>      </g>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6897"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,308.26772)"><flowRegion
+         id="flowRegion6899"><rect
+           id="rect6901"
+           width="235.67676"
+           height="275.77454"
+           x="42.55275"
+           y="93.528419" /></flowRegion><flowPara
+         id="flowPara6903"
+         style="text-anchor:start;text-align:start">UoM Onramp</flowPara><flowPara
+         id="flowPara6905"
+         style="text-anchor:start;text-align:start">Current</flowPara><flowPara
+         id="flowPara6907"
+         style="text-anchor:start;text-align:start" /><flowPara
+         id="flowPara6909"
+         style="text-anchor:start;text-align:start">Rowland Mosbergen</flowPara><flowPara
+         id="flowPara6911"
+         style="text-anchor:start;text-align:start" /><flowPara
+         id="flowPara6913"
+         style="text-anchor:start;text-align:start">20/08/2018</flowPara></flowRoot>  </g>
 </svg>
