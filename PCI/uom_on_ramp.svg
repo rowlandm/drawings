@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9030927"
-     inkscape:cx="412.47486"
-     inkscape:cy="436.12117"
+     inkscape:zoom="0.63858297"
+     inkscape:cx="1070.847"
+     inkscape:cy="254.14851"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -468,40 +468,16 @@
              style="font-size:7.5px;text-align:center;text-anchor:middle">Stemformatics</flowPara></flowRoot>      </g>
     </g>
     <g
-       id="g5156"
-       transform="translate(1224.6548,-209.96792)">
-      <g
-         transform="translate(-517.48677,-268.39597)"
-         id="g5076">
-        <g
-           id="g4974-7"
-           transform="translate(-290.62413,70.942961)">
-          <g
-             id="g5011"
-             transform="translate(-274.76311,78.666617)">
-            <rect
-               style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect4855-0-6-8-2"
-               width="95.128006"
-               height="24.991257"
-               x="614.70428"
-               y="775.44293"
-               ry="1.6899101" />
-            <flowRoot
-               xml:space="preserve"
-               id="flowRoot4857-6-4-7-2"
-               style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(12.023415,335.01873)"><flowRegion
-                 id="flowRegion4859-8-9-1-6"><rect
-                   id="rect4861-9-5-7-1"
-                   width="82.742699"
-                   height="20.883286"
-                   x="608.81122"
-                   y="448.23959" /></flowRegion><flowPara
-                 id="flowPara4902-4-2-0"
-                 style="font-size:7.5px;text-align:center;text-anchor:middle">Digital Scholarship</flowPara></flowRoot>          </g>
-        </g>
-      </g>
+       transform="translate(305.66209,58.802798)"
+       id="g5011">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6781"
+         width="143.94978"
+         height="204.85162"
+         x="591.2558"
+         y="767.1153"
+         ry="3.6912601" />
     </g>
     <flowRoot
        xml:space="preserve"
@@ -524,48 +500,32 @@
            x="-467.77988"
            y="384.34131" /></flowRegion><flowPara
          id="flowPara5144"></flowPara></flowRoot>    <g
-       id="g4974-7-1"
-       transform="translate(577.52017,-377.80811)">
-      <g
-         id="g5011-7"
-         transform="translate(-274.76311,78.666617)">
-        <rect
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4855-0-6-8-2-7"
-           width="95.128006"
-           height="24.991257"
-           x="614.70428"
-           y="775.44293"
-           ry="1.6899101" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot4857-6-4-7-2-1"
-           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(12.023415,335.01873)"><flowRegion
-             id="flowRegion4859-8-9-1-6-1"><rect
-               id="rect4861-9-5-7-1-5"
-               width="82.742699"
-               height="20.883286"
-               x="608.81122"
-               y="448.23959" /></flowRegion><flowPara
-             id="flowPara4902-4-2-0-9"
-             style="font-size:7.5px;text-align:center;text-anchor:middle">Data Forensics Lab</flowPara></flowRoot>      </g>
-    </g>
-    <g
-       transform="translate(1246.2885,-127.4976)"
-       id="g5156-7">
-      <g
-         transform="translate(-517.48677,-268.39597)"
-         id="g5076-7">
+       id="g6787"
+       transform="translate(-1.0112637,3.4896653)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4857-6-4-7-2"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(319.55846,393.82153)"><flowRegion
+           id="flowRegion4859-8-9-1-6"><rect
+             id="rect4861-9-5-7-1"
+             width="82.742699"
+             height="20.883286"
+             x="608.81122"
+             y="448.23959" /></flowRegion><flowPara
+           id="flowPara4902-4-2-0"
+           style="font-size:7.5px;text-align:center;text-anchor:middle">Digital Scholarship</flowPara></flowRoot>      <g
+         transform="translate(-29.273644,423.0887)"
+         id="g6730">
         <g
-           id="g4974-7-6"
-           transform="translate(-290.62413,70.942961)">
+           id="g4974-7-1"
+           transform="translate(611.67252,-363.69831)">
           <g
-             id="g5011-73"
+             id="g5011-7"
              transform="translate(-274.76311,78.666617)">
             <rect
                style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect4855-0-6-8-2-6"
+               id="rect4855-0-6-8-2-7"
                width="95.128006"
                height="24.991257"
                x="614.70428"
@@ -573,263 +533,250 @@
                ry="1.6899101" />
             <flowRoot
                xml:space="preserve"
-               id="flowRoot4857-6-4-7-2-5"
+               id="flowRoot4857-6-4-7-2-1"
                style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(11.917213,329.6043)"><flowRegion
-                 id="flowRegion4859-8-9-1-6-6"><rect
-                   id="rect4861-9-5-7-1-3"
+               transform="translate(12.023415,335.01873)"><flowRegion
+                 id="flowRegion4859-8-9-1-6-1"><rect
+                   id="rect4861-9-5-7-1-5"
                    width="82.742699"
                    height="20.883286"
                    x="608.81122"
                    y="448.23959" /></flowRegion><flowPara
-                 id="flowPara4902-4-2-0-94"
-                 style="font-size:7.5px;text-align:center;text-anchor:middle">University Digitisation Centre</flowPara></flowRoot>          </g>
+                 id="flowPara4902-4-2-0-9"
+                 style="font-size:7.5px;text-align:center;text-anchor:middle">Data Forensics Lab</flowPara></flowRoot>          </g>
         </g>
-      </g>
-    </g>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 850.9884,458.46698 76.38643,17.67149"
-       id="path5456"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 834.45701,528.58288 816.5005,471.57809"
-       id="path5458"
-       inkscape:connector-curvature="0" />
-    <g
-       id="g4974-7-1-8-4"
-       transform="translate(309.69256,-251.42917)">
-      <g
-         id="g5011-7-1-4"
-         transform="translate(-274.76311,78.666617)">
         <g
-           id="g5493"
-           transform="translate(250.55476,-72.817476)">
+           transform="translate(1419.7834,-132.80626)"
+           id="g5156-7">
+          <g
+             transform="translate(-517.48677,-268.39597)"
+             id="g5076-7">
+            <g
+               id="g4974-7-6"
+               transform="translate(-290.62413,70.942961)">
+              <g
+                 id="g5011-73"
+                 transform="translate(-274.76311,78.666617)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                   id="rect4855-0-6-8-2-6"
+                   width="95.128006"
+                   height="24.991257"
+                   x="614.70428"
+                   y="775.44293"
+                   ry="1.6899101" />
+                <flowRoot
+                   xml:space="preserve"
+                   id="flowRoot4857-6-4-7-2-5"
+                   style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   transform="translate(11.917213,329.6043)"><flowRegion
+                     id="flowRegion4859-8-9-1-6-6"><rect
+                       id="rect4861-9-5-7-1-3"
+                       width="82.742699"
+                       height="20.883286"
+                       x="608.81122"
+                       y="448.23959" /></flowRegion><flowPara
+                     id="flowPara4902-4-2-0-94"
+                     style="font-size:7.5px;text-align:center;text-anchor:middle">University Digitisation Centre</flowPara></flowRoot>              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g6723"
+           transform="translate(53.231,-36.408738)">
           <rect
              ry="1.6899101"
-             y="775.44293"
-             x="614.70428"
+             y="593.69812"
+             x="898.38269"
              height="24.991257"
              width="95.128006"
-             id="rect4855-0-6-8-2-7-2-4"
+             id="rect4855-0-6-8-2-7-2-5"
              style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <flowRoot
-             transform="translate(11.917213,330.33123)"
+             transform="translate(295.5956,148.58647)"
              style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot4857-6-4-7-2-1-9-4"
+             id="flowRoot4857-6-4-7-2-1-9-9"
              xml:space="preserve"><flowRegion
-               id="flowRegion4859-8-9-1-6-1-3-7"><rect
+               id="flowRegion4859-8-9-1-6-1-3-6"><rect
                  y="448.23959"
                  x="608.81122"
                  height="20.883286"
                  width="82.742699"
-                 id="rect4861-9-5-7-1-5-9-6" /></flowRegion><flowPara
+                 id="rect4861-9-5-7-1-5-9-2" /></flowRegion><flowPara
                style="font-size:7.5px;text-align:center;text-anchor:middle"
-               id="flowPara4902-4-2-0-9-0-3">Managing Data @ Melbourne</flowPara></flowRoot>        </g>
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 878.3158,702.52012 815.67711,644.18784"
-           id="path5500"
-           inkscape:connector-curvature="0" />
+               id="flowPara4902-4-2-0-9-0-1">Research Data Curation</flowPara></flowRoot>        </g>
+        <g
+           id="g5593"
+           transform="translate(450.4539,-371.2268)">
+          <rect
+             ry="1.6899101"
+             y="828.19897"
+             x="501.15979"
+             height="24.991257"
+             width="95.128006"
+             id="rect4855-0-6-8-2-7-2-5-8"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <flowRoot
+             transform="translate(-101.62728,387.77477)"
+             style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4857-6-4-7-2-1-9-9-5"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4859-8-9-1-6-1-3-6-7"><rect
+                 y="448.23959"
+                 x="608.81122"
+                 height="20.883286"
+                 width="82.742699"
+                 id="rect4861-9-5-7-1-5-9-2-4" /></flowRegion><flowPara
+               style="font-size:7.5px;text-align:center;text-anchor:middle"
+               id="flowPara4902-4-2-0-9-0-1-1">immersiveInformatics</flowPara></flowRoot>        </g>
       </g>
     </g>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4855-0-6-8-2-7-2-5"
-       width="95.128006"
-       height="24.991257"
-       x="898.38269"
-       y="593.69812"
-       ry="1.6899101" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4857-6-4-7-2-1-9-9"
-       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(295.5956,148.58647)"><flowRegion
-         id="flowRegion4859-8-9-1-6-1-3-6"><rect
-           id="rect4861-9-5-7-1-5-9-2"
-           width="82.742699"
-           height="20.883286"
-           x="608.81122"
-           y="448.23959" /></flowRegion><flowPara
-         id="flowPara4902-4-2-0-9-0-1"
-         style="font-size:7.5px;text-align:center;text-anchor:middle">Research Data Curation</flowPara></flowRoot>    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 911.09205,593.57073 849.23634,471.03379"
-       id="path5535"
-       inkscape:connector-curvature="0" />
     <g
-       id="g5593"
-       transform="translate(451.23688,-393.93332)">
-      <rect
-         ry="1.6899101"
-         y="828.19897"
-         x="501.15979"
-         height="24.991257"
-         width="95.128006"
-         id="rect4855-0-6-8-2-7-2-5-8"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(-101.62728,387.77477)"
-         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4857-6-4-7-2-1-9-9-5"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4859-8-9-1-6-1-3-6-7"><rect
-             y="448.23959"
-             x="608.81122"
-             height="20.883286"
-             width="82.742699"
-             id="rect4861-9-5-7-1-5-9-2-4" /></flowRegion><flowPara
-           style="font-size:7.5px;text-align:center;text-anchor:middle"
-           id="flowPara4902-4-2-0-9-0-1-1">immersiveInformatics</flowPara></flowRoot>    </g>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 951.4157,444.80384 -100.2219,7.82984"
-       id="path5600"
-       inkscape:connector-curvature="0" />
-    <g
-       id="g5068"
-       transform="translate(634.71344,125.07681)">
-      <rect
-         ry="1.6899101"
-         y="864.12164"
-         x="72.958344"
-         height="24.991257"
-         width="95.128006"
-         id="rect4855-0"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(-529.70788,419.00991)"
-         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4857-6"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4859-8"><rect
-             y="448.23959"
-             x="608.81122"
-             height="20.883286"
-             width="82.742699"
-             id="rect4861-9" /></flowRegion><flowPara
-           style="font-size:7.5px;text-align:center;text-anchor:middle"
-           id="flowPara4863-2">Social &amp; Cultural</flowPara><flowPara
-           style="font-size:7.5px;text-align:center;text-anchor:middle"
-           id="flowPara4902">Informatics Platform</flowPara></flowRoot>    </g>
-    <g
-       id="g4154-3-2-2-6"
-       transform="matrix(0.33333334,0,0,0.33333334,871.42313,663.42594)">
-      <rect
-         ry="5.0697155"
-         y="402.37741"
-         x="79.015182"
-         height="293.11249"
-         width="293.11249"
-         id="rect4136-6-6-5-1"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.88750315;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(-31.467636,441.81815)"
-         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4138-7-1-4-5"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4140-5-8-7-9"><rect
-             y="89.094482"
-             x="112.14286"
-             height="116.42857"
-             width="288.57141"
-             id="rect4142-3-7-4-4" /></flowRegion><flowPara
-           style="text-align:center;text-anchor:middle"
-           id="flowPara4144-5-9-4-9">Library</flowPara></flowRoot>    </g>
-    <g
-       id="g4720-8"
-       transform="translate(563.41229,410.54799)">
-      <rect
-         ry="1.6899052"
-         y="387.00375"
-         x="208.73262"
-         height="97.704163"
-         width="97.704163"
-         id="rect4136-6-5"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29583454;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(0,4.7372477)"
-         style="font-style:normal;font-weight:normal;font-size:8.33333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4138-7-6"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4140-5-11"><rect
-             y="425.11139"
-             x="209.28598"
-             height="38.809525"
-             width="96.190475"
-             id="rect4142-3-5" /></flowRegion><flowPara
-           style="text-align:center;text-anchor:middle"
-           id="flowPara4144-5-98">Faculty of Arts</flowPara></flowRoot>    </g>
-    <g
-       id="g4734-4"
-       transform="translate(169.1993,410.54799)">
-      <rect
-         ry="1.6899052"
-         y="387.00375"
-         x="477.32901"
-         height="97.704163"
-         width="97.704163"
-         id="rect4136-6-9-8"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29583454;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(0,4.7372477)"
-         style="font-style:normal;font-weight:normal;font-size:8.33333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4138-7-3-1"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4140-5-6-0"><rect
-             y="425.11139"
-             x="477.88235"
-             height="38.809525"
-             width="96.190475"
-             id="rect4142-3-0-3" /></flowRegion><flowPara
-           style="text-align:center;text-anchor:middle"
-           id="flowPara4144-5-6-0">Faculty of Education</flowPara></flowRoot>    </g>
-    <g
-       id="g4154-3-20-3-8"
-       transform="matrix(0.33333334,0,0,0.33333334,494.57335,663.42594)">
-      <rect
-         ry="5.0697155"
-         y="402.37741"
-         x="79.015182"
-         height="293.11249"
-         width="293.11249"
-         id="rect4136-6-23-0-3"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.88750315;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(-31.467636,441.81815)"
-         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4138-7-7-7-1"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4140-5-5-8-8"><rect
-             y="89.094482"
-             x="112.14286"
-             height="116.42857"
-             width="288.57141"
-             id="rect4142-3-9-6-9" /></flowRegion><flowPara
-           style="text-align:center;text-anchor:middle"
-           id="flowPara4144-5-2-8-6">Research Platforms</flowPara></flowRoot>    </g>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 918.44043,894.98318 756.2201,990.2115"
-       id="path5671"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 794.97581,896.09048 -43.73859,93.01371"
-       id="path5673"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 706.39133,894.42952 39.30936,93.56736"
-       id="path5675"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 606.73378,894.98318 120.69636,93.56736"
-       id="path5677"
-       inkscape:connector-curvature="0" />
+       id="g6822"
+       transform="matrix(1.5203355,0,0,1.5203355,-324.70958,-512.47682)">
+      <g
+         transform="matrix(0.54445557,0,0,0.54445557,582.34878,530.33501)"
+         id="g5068">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4855-0"
+           width="95.128006"
+           height="24.991257"
+           x="72.958344"
+           y="864.12164"
+           ry="1.6899101" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4857-6"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-529.70788,419.00991)"><flowRegion
+             id="flowRegion4859-8"><rect
+               id="rect4861-9"
+               width="82.742699"
+               height="20.883286"
+               x="608.81122"
+               y="448.23959" /></flowRegion><flowPara
+             id="flowPara4863-2"
+             style="font-size:7.5px;text-align:center;text-anchor:middle">Social &amp; Cultural</flowPara><flowPara
+             id="flowPara4902"
+             style="font-size:7.5px;text-align:center;text-anchor:middle">Informatics Platform</flowPara></flowRoot>      </g>
+      <g
+         transform="matrix(0.18148519,0,0,0.18148519,711.22669,823.44219)"
+         id="g4154-3-2-2-6">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.88750315;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4136-6-6-5-1"
+           width="293.11249"
+           height="293.11249"
+           x="79.015182"
+           y="402.37741"
+           ry="5.0697155" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4138-7-1-4-5"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-31.467636,441.81815)"><flowRegion
+             id="flowRegion4140-5-8-7-9"><rect
+               id="rect4142-3-7-4-4"
+               width="288.57141"
+               height="116.42857"
+               x="112.14286"
+               y="89.094482" /></flowRegion><flowPara
+             id="flowPara4144-5-9-4-9"
+             style="text-align:center;text-anchor:middle">Library</flowPara></flowRoot>      </g>
+      <g
+         transform="matrix(0.54445557,0,0,0.54445557,543.52848,685.76138)"
+         id="g4720-8">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29583454;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4136-6-5"
+           width="97.704163"
+           height="97.704163"
+           x="208.73262"
+           y="387.00375"
+           ry="1.6899052" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4138-7-6"
+           style="font-style:normal;font-weight:normal;font-size:8.33333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(0,4.7372477)"><flowRegion
+             id="flowRegion4140-5-11"><rect
+               id="rect4142-3-5"
+               width="96.190475"
+               height="38.809525"
+               x="209.28598"
+               y="425.11139" /></flowRegion><flowPara
+             id="flowPara4144-5-98"
+             style="text-align:center;text-anchor:middle">Faculty of Arts</flowPara></flowRoot>      </g>
+      <g
+         transform="matrix(0.54445557,0,0,0.54445557,328.89702,685.76138)"
+         id="g4734-4">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.29583454;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4136-6-9-8"
+           width="97.704163"
+           height="97.704163"
+           x="477.32901"
+           y="387.00375"
+           ry="1.6899052" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4138-7-3-1"
+           style="font-style:normal;font-weight:normal;font-size:8.33333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(0,4.7372477)"><flowRegion
+             id="flowRegion4140-5-6-0"><rect
+               id="rect4142-3-0-3"
+               width="96.190475"
+               height="38.809525"
+               x="477.88235"
+               y="425.11139" /></flowRegion><flowPara
+             id="flowPara4144-5-6-0"
+             style="text-align:center;text-anchor:middle">Faculty of Education</flowPara></flowRoot>      </g>
+      <g
+         transform="matrix(0.18148519,0,0,0.18148519,506.04873,823.44219)"
+         id="g4154-3-20-3-8">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.88750315;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4136-6-23-0-3"
+           width="293.11249"
+           height="293.11249"
+           x="79.015182"
+           y="402.37741"
+           ry="5.0697155" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4138-7-7-7-1"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-31.467636,441.81815)"><flowRegion
+             id="flowRegion4140-5-5-8-8"><rect
+               id="rect4142-3-9-6-9"
+               width="288.57141"
+               height="116.42857"
+               x="112.14286"
+               y="89.094482" /></flowRegion><flowPara
+             id="flowPara4144-5-2-8-6"
+             style="text-align:center;text-anchor:middle">Research Platforms</flowPara></flowRoot>      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5671"
+         d="m 736.82552,949.51482 -88.32176,51.84758"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.54445559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5673"
+         d="m 669.60452,950.1177 -23.81372,50.6418"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.54445559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5675"
+         d="m 621.37421,949.21338 21.4022,50.94322"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.54445559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5677"
+         d="m 567.1151,949.51482 65.71381,50.94328"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.54445559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
     <g
        id="g5878"
        transform="translate(-2.4844458,-2)">
@@ -1147,6 +1094,320 @@
                style="font-size:6.25px;text-align:center;text-anchor:middle"
                id="flowPara4863-9-6">Bayesian Analysis &amp; Modeling Research Group</flowPara></flowRoot>        </g>
       </g>
+    </g>
+    <g
+       id="g5068-1-5"
+       transform="translate(2.5010723,-153.10818)">
+      <rect
+         ry="1.6899101"
+         y="864.12164"
+         x="72.958344"
+         height="24.991257"
+         width="95.128006"
+         id="rect4855-0-0-6"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(-529.70788,419.00991)"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4857-6-5-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4859-8-1-8"><rect
+             y="448.23959"
+             x="608.81122"
+             height="20.883286"
+             width="82.742699"
+             id="rect4861-9-1-7" /></flowRegion><flowPara
+           style="font-size:7.5px;text-align:center;text-anchor:middle"
+           id="flowPara4863-2-08-2">Social &amp; Cultural</flowPara><flowPara
+           style="font-size:7.5px;text-align:center;text-anchor:middle"
+           id="flowPara4902-5-8">Informatics Platform</flowPara></flowRoot>    </g>
+    <g
+       id="g5068-1-5-2"
+       transform="translate(405.64264,-152.3252)">
+      <g
+         id="g6334"
+         transform="translate(0,-4)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4855-0-0-6-9"
+           width="95.128006"
+           height="24.991257"
+           x="72.958344"
+           y="864.12164"
+           ry="1.6899101" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4857-6-5-9-9"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-529.84338,418.28301)"><flowRegion
+             id="flowRegion4859-8-1-8-6"><rect
+               id="rect4861-9-1-7-0"
+               width="82.742699"
+               height="20.883286"
+               x="608.81122"
+               y="448.23959" /></flowRegion><flowPara
+             id="flowPara4902-5-8-7"
+             style="font-size:7.5px;text-align:center;text-anchor:middle">Melbourne Integrative Genomics</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5068-1-5-6"
+       transform="translate(135.819,-150.91035)">
+      <g
+         id="g6410"
+         transform="translate(0.58723771,-4.3064099)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4855-0-0-6-1"
+           width="95.128006"
+           height="24.991257"
+           x="72.958344"
+           y="864.12164"
+           ry="1.6899101" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4857-6-5-9-3"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-529.70788,419.00991)"><flowRegion
+             id="flowRegion4859-8-1-8-2"><rect
+               id="rect4861-9-1-7-1"
+               width="82.742699"
+               height="20.883286"
+               x="608.81122"
+               y="448.23959" /></flowRegion><flowPara
+             id="flowPara4902-5-8-9"
+             style="font-size:7.5px;text-align:center;text-anchor:middle">Legal Academic Skills Centre</flowPara></flowRoot>      </g>
+      <g
+         id="g6403"
+         transform="translate(-0.54469671,-18.595861)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4855-0-0-6-1-9"
+           width="95.128006"
+           height="24.991257"
+           x="74.414352"
+           y="906.94537"
+           ry="1.6899101" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4857-6-5-9-3-1"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-528.37272,461.83367)"><flowRegion
+             id="flowRegion4859-8-1-8-2-4"><rect
+               id="rect4861-9-1-7-1-9"
+               width="82.742699"
+               height="20.883286"
+               x="608.81122"
+               y="448.23959" /></flowRegion><flowPara
+             id="flowPara4902-5-8-9-1"
+             style="font-size:7.5px;text-align:center;text-anchor:middle">MLS Academic Research Service</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5068-1-5-2-0"
+       transform="translate(405.44803,-125.04105)">
+      <g
+         id="g6334-7"
+         transform="translate(0,-4)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4855-0-0-6-9-5"
+           width="95.128006"
+           height="24.991257"
+           x="72.958344"
+           y="864.12164"
+           ry="1.6899101" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4857-6-5-9-9-8"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-529.84338,418.28301)"><flowRegion
+             id="flowRegion4859-8-1-8-6-7"><rect
+               id="rect4861-9-1-7-0-0"
+               width="82.742699"
+               height="20.883286"
+               x="608.81122"
+               y="448.23959" /></flowRegion><flowPara
+             id="flowPara4902-5-8-7-4"
+             style="font-size:7.5px;text-align:center;text-anchor:middle">Metabolomics Australia</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5068-1-5-2-0-8"
+       transform="translate(405.44802,-95.420615)">
+      <g
+         id="g6334-7-0"
+         transform="translate(0,-4)">
+        <g
+           id="g6483"
+           transform="translate(0,-2)">
+          <rect
+             ry="1.6899101"
+             y="864.12164"
+             x="72.958344"
+             height="24.991257"
+             width="95.128006"
+             id="rect4855-0-0-6-9-5-4"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <flowRoot
+             transform="translate(-530.02831,418.94402)"
+             style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4857-6-5-9-9-8-2"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4859-8-1-8-6-7-9"><rect
+                 y="448.23959"
+                 x="608.81122"
+                 height="20.883286"
+                 width="82.742699"
+                 id="rect4861-9-1-7-0-0-6" /></flowRegion><flowPara
+               style="font-size:7.5px;text-align:center;text-anchor:middle"
+               id="flowPara4902-5-8-7-4-1">Mass Spectrometry and Proteomics</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4855-0-0-4"
+       width="95.128006"
+       height="24.991257"
+       x="611.55994"
+       y="490.08914"
+       ry="1.6899101" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4857-6-5-2"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(8.89369,44.9774)"><flowRegion
+         id="flowRegion4859-8-1-2"><rect
+           id="rect4861-9-1-2"
+           width="82.742699"
+           height="20.883286"
+           x="608.81122"
+           y="448.23959" /></flowRegion><flowPara
+         id="flowPara4902-5-5"
+         style="font-size:7.5px;text-align:center;text-anchor:middle">Cloud Computing and Distributed Systems</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4855-0-0-4-4"
+       width="95.128006"
+       height="24.991257"
+       x="611.14465"
+       y="519.15588"
+       ry="1.6899101" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4857-6-5-2-0"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(1.9281,75.60538)"><flowRegion
+         id="flowRegion4859-8-1-2-9"><rect
+           id="rect4861-9-1-2-1"
+           width="95.753532"
+           height="31.264269"
+           x="608.81122"
+           y="448.23959" /></flowRegion><flowPara
+         id="flowPara4902-5-5-9"
+         style="font-size:6.25px;text-align:center;text-anchor:middle">Microsoft Research Centre for Social Natural User Interfaces</flowPara></flowRoot>    <g
+       id="g5068-1-5-2-0-8-6"
+       transform="translate(405.45856,-67.824)">
+      <g
+         id="g6334-7-0-2"
+         transform="translate(0,-4)">
+        <g
+           id="g6483-5"
+           transform="translate(0,-2)">
+          <rect
+             ry="1.6899101"
+             y="864.12164"
+             x="72.958344"
+             height="24.991257"
+             width="95.128006"
+             id="rect4855-0-0-6-9-5-4-4"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <flowRoot
+             transform="translate(-529.68591,422.97051)"
+             style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4857-6-5-9-9-8-2-4"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4859-8-1-8-6-7-9-9"><rect
+                 y="448.23959"
+                 x="608.81122"
+                 height="20.883286"
+                 width="82.742699"
+                 id="rect4861-9-1-7-0-0-6-9" /></flowRegion><flowPara
+               style="font-size:7.5px;text-align:center;text-anchor:middle"
+               id="flowPara4902-5-8-7-4-1-3">CoE Particle Physics</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4855-0-0-4-6"
+       width="95.128006"
+       height="24.991257"
+       x="610.72949"
+       y="546.39117"
+       ry="1.6899101" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4857-6-5-2-05"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(7.942421,100.55254)"><flowRegion
+         id="flowRegion4859-8-1-2-0"><rect
+           id="rect4861-9-1-2-2"
+           width="82.742699"
+           height="20.883286"
+           x="608.81122"
+           y="448.23959" /></flowRegion><flowPara
+         id="flowPara4902-5-5-94"
+         style="font-size:7.5px;text-align:center;text-anchor:middle">Particulate Fluids Processing Centre</flowPara></flowRoot>    <g
+       id="g5068-1-5-2-3"
+       transform="translate(538.60157,-151.89322)">
+      <g
+         id="g6334-5"
+         transform="translate(0,-4)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4855-0-0-6-9-1"
+           width="95.128006"
+           height="24.991257"
+           x="72.958344"
+           y="864.12164"
+           ry="1.6899101" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4857-6-5-9-9-7"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-529.84338,418.28301)"><flowRegion
+             id="flowRegion4859-8-1-8-6-4"><rect
+               id="rect4861-9-1-7-0-3"
+               width="82.742699"
+               height="20.883286"
+               x="608.81122"
+               y="448.23959" /></flowRegion><flowPara
+             id="flowPara4902-5-8-7-1"
+             style="font-size:7.5px;text-align:center;text-anchor:middle">Asia Pacific Centre for Animal Health</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5068-1-5-2-3-4"
+       transform="translate(538.60158,-125.04105)">
+      <g
+         id="g6334-5-6"
+         transform="translate(0,-4)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4855-0-0-6-9-1-9"
+           width="95.128006"
+           height="24.991257"
+           x="72.958344"
+           y="864.12164"
+           ry="1.6899101" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4857-6-5-9-9-7-4"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-529.84338,418.28301)"><flowRegion
+             id="flowRegion4859-8-1-8-6-4-2"><rect
+               id="rect4861-9-1-7-0-3-2"
+               width="82.742699"
+               height="20.883286"
+               x="608.81122"
+               y="448.23959" /></flowRegion><flowPara
+             id="flowPara4902-5-8-7-1-6"
+             style="font-size:7.5px;text-align:center;text-anchor:middle">Centre for Animal Biotechnology</flowPara></flowRoot>      </g>
     </g>
   </g>
 </svg>
