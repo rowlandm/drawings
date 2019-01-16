@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,7 +92,7 @@
        xml:space="preserve"
        id="flowRoot847"
        style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-15.661691,10.394345)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-24.437043,10.394345)"><flowRegion
          id="flowRegion849"><rect
            id="rect851"
            width="169.66502"
@@ -100,29 +100,31 @@
            x="96.428574"
            y="268.94824" /></flowRegion><flowPara
          id="flowPara853"
-         style="text-align:center;text-anchor:middle">Top (25%)</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-24.9222,40.321345)"
+         style="text-align:center;text-anchor:middle">Top (Lower %)</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-22.397633,40.321345)"
        xml:space="preserve"
        id="flowRoot847-6"
        style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion849-7"><rect
            id="rect851-5"
-           width="206.66318"
-           height="33.708477"
+           width="133.20738"
+           height="62.452023"
            x="96.428574"
            y="268.94824" /></flowRegion><flowPara
-         id="flowPara853-3">Emerging (50%)</flowPara></flowRoot>    <flowRoot
+         id="flowPara853-3">Emerging</flowPara><flowPara
+         id="flowPara869">(Higher %)</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-22.397633,77.240962)"
        xml:space="preserve"
        id="flowRoot847-6-5"
        style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion849-7-6"><rect
            id="rect851-5-2"
-           width="249.24623"
-           height="39.031357"
+           width="118.30337"
+           height="61.38747"
            x="96.428574"
            y="268.94824" /></flowRegion><flowPara
-         id="flowPara853-3-9">Long Tail (25%)</flowPara></flowRoot>    <flowRoot
+         id="flowPara853-3-9">Long Tail</flowPara><flowPara
+         id="flowPara871">(Lower %)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot905"
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -135,7 +137,7 @@
            x="456.42856"
            y="271.09113"
            style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara911"></flowPara></flowRoot>    <flowRoot
+         id="flowPara911" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot913"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -143,12 +145,12 @@
          id="flowRegion915"
          style="font-size:12px"><rect
            id="rect917"
-           width="254.99997"
-           height="86.285706"
+           width="316.74539"
+           height="66.058762"
            x="438.57144"
            y="270.37683"
            style="font-size:12px" /></flowRegion><flowPara
-         id="flowPara919">Excellent funding record, therefore have more options than other types of researchers. Focus on helping them maximise co-investment.</flowPara></flowRoot>    <g
+         id="flowPara919">Excellent funding record, therefore have more options than other types of researchers. Focus on helping them maximise co-investment and learn from them.</flowPara></flowRoot>    <g
        id="g944"
        transform="translate(0,-3.6148585)">
       <path
